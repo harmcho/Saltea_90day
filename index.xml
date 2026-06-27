@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>솔티탭 90일 여정</title>
+      <link>https://harmcho.github.io/Saltea_90day</link>
+      <description>최근 10 건 on 솔티탭 90일 여정</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>인스타그램·영상제작 연동</title>
+    <link>https://harmcho.github.io/Saltea_90day/automation/instagram-video-integration</link>
+    <guid>https://harmcho.github.io/Saltea_90day/automation/instagram-video-integration</guid>
+    <description><![CDATA[ 인스타그램·영상제작 연동 솔티탭 90일 여정은 촬영 원본을 기반으로 릴스와 카드뉴스를 빠르게 제작하고, 승인 후 인스타그램에 게시하는 구조로 운영합니다. ]]></description>
+    <pubDate>Sat, 27 Jun 2026 09:29:30 GMT</pubDate>
+  </item><item>
+    <title>네이버 톡톡 상담 퍼널</title>
+    <link>https://harmcho.github.io/Saltea_90day/conversion/naver-talktalk</link>
+    <guid>https://harmcho.github.io/Saltea_90day/conversion/naver-talktalk</guid>
+    <description><![CDATA[ 네이버 톡톡 상담 퍼널 스마트스토어 기반에서는 구매 직전 상담은 카카오채널보다 네이버 톡톡이 더 쉽고 자연스럽습니다. ]]></description>
+    <pubDate>Sat, 27 Jun 2026 08:50:25 GMT</pubDate>
+  </item><item>
+    <title>2대 타겟 촬영 가이드</title>
+    <link>https://harmcho.github.io/Saltea_90day/production/shooting-guide</link>
+    <guid>https://harmcho.github.io/Saltea_90day/production/shooting-guide</guid>
+    <description><![CDATA[ 2대 타겟 촬영 가이드 오늘 촬영은 편집하지 않고, 릴스와 카드뉴스로 조립할 원본 재료를 확보하는 것이 목적입니다. ]]></description>
+    <pubDate>Sat, 27 Jun 2026 08:50:25 GMT</pubDate>
+  </item><item>
+    <title>구글시트 운영표</title>
+    <link>https://harmcho.github.io/Saltea_90day/kpi/google-sheet</link>
+    <guid>https://harmcho.github.io/Saltea_90day/kpi/google-sheet</guid>
+    <description><![CDATA[ 구글시트 운영표 솔티탭 90일 여정의 2대 타겟, 퍼널, 촬영 체크리스트, KPI, nt 링크, 네이버 톡톡 FAQ를 한 곳에서 관리합니다. ]]></description>
+    <pubDate>Sat, 27 Jun 2026 08:50:25 GMT</pubDate>
+  </item><item>
+    <title>2대 타겟 90일 퍼널</title>
+    <link>https://harmcho.github.io/Saltea_90day/funnel/2-target-funnel</link>
+    <guid>https://harmcho.github.io/Saltea_90day/funnel/2-target-funnel</guid>
+    <description><![CDATA[ 2대 타겟 90일 퍼널 솔티탭 90일 여정은 이제 두 가지 큰 타겟을 기준으로 운영합니다. ]]></description>
+    <pubDate>Sat, 27 Jun 2026 08:49:47 GMT</pubDate>
+  </item><item>
+    <title>AI 팀원별 보고서</title>
+    <link>https://harmcho.github.io/Saltea_90day/team-reports</link>
+    <guid>https://harmcho.github.io/Saltea_90day/team-reports</guid>
+    <description><![CDATA[ AI 팀원별 보고서 솔티탭 90일 여정은 혼자 감으로 움직이는 프로젝트가 아니라, 각 역할별 AI 페르소나가 매일/매주 관찰하고 판단하는 공개형 운영 기록입니다. 이제 각 AI 팀원에게 이름을 붙여, 공개 기록을 보는 분들도 더 친근하게 이해할 수 있도록 정리합니다. ]]></description>
+    <pubDate>Sat, 27 Jun 2026 05:04:35 GMT</pubDate>
+  </item><item>
+    <title>백서연 QA Bot 보고서</title>
+    <link>https://harmcho.github.io/Saltea_90day/team-reports/qa-bot</link>
+    <guid>https://harmcho.github.io/Saltea_90day/team-reports/qa-bot</guid>
+    <description><![CDATA[ 백서연 QA Bot 보고서 역할 백서연은 공개 문구의 과장 표현, 식품/건강 표현 리스크, 개인정보 공개 위험을 검수하는 표현 검수 담당입니다. ]]></description>
+    <pubDate>Sat, 27 Jun 2026 05:03:33 GMT</pubDate>
+  </item><item>
+    <title>정하은 Automation Bot 보고서</title>
+    <link>https://harmcho.github.io/Saltea_90day/team-reports/automation-bot</link>
+    <guid>https://harmcho.github.io/Saltea_90day/team-reports/automation-bot</guid>
+    <description><![CDATA[ 정하은 Automation Bot 보고서 역할 정하은은 Obsidian 내부 기록, GitHub Pages 공개 기록, Google Drive 공유, KPI 시트 연결을 관리하는 기록·자동화 담당입니다. ]]></description>
+    <pubDate>Sat, 27 Jun 2026 05:03:33 GMT</pubDate>
+  </item><item>
+    <title>강민재 Copy Bot 보고서</title>
+    <link>https://harmcho.github.io/Saltea_90day/team-reports/copy-bot</link>
+    <guid>https://harmcho.github.io/Saltea_90day/team-reports/copy-bot</guid>
+    <description><![CDATA[ 강민재 Copy Bot 보고서 역할 강민재는 릴스 후킹, 카드뉴스 문안, CTA, 캡션, 해시태그를 설계하는 콘텐츠 카피 담당입니다. ]]></description>
+    <pubDate>Sat, 27 Jun 2026 05:03:33 GMT</pubDate>
+  </item><item>
+    <title>윤채린 Product Bot 보고서</title>
+    <link>https://harmcho.github.io/Saltea_90day/team-reports/product-bot</link>
+    <guid>https://harmcho.github.io/Saltea_90day/team-reports/product-bot</guid>
+    <description><![CDATA[ 윤채린 Product Bot 보고서 역할 윤채린은 제품 설명, 상품 구성, 상세페이지 메시지, 패키지/루틴 제안을 점검하는 제품 설명 담당입니다. ]]></description>
+    <pubDate>Sat, 27 Jun 2026 05:03:18 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
