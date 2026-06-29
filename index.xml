@@ -6,6 +6,24 @@
       <description>최근 10 건 on 솔티탭 90일 여정</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>2026-06-29 09:00 Day 1 실행 회의록</title>
+    <link>https://harmcho.github.io/Saltea_90day/meetings/2026-06-29-0900-day1-kickoff</link>
+    <guid>https://harmcho.github.io/Saltea_90day/meetings/2026-06-29-0900-day1-kickoff</guid>
+    <description><![CDATA[ 2026-06-29 09:00 Day 1 실행 회의록 회의명: 솔티탭 90일 여정 Day 1 실행 회의 회의일시: 2026-06-29 09:00 KST 회의 목적: 90일 여정 첫날 콘텐츠 실행 계획 확정 운영 기준: 매일 3릴스 + 1카드뉴스 1. ]]></description>
+    <pubDate>Sun, 28 Jun 2026 09:59:58 GMT</pubDate>
+  </item><item>
+    <title>Day 0 — 솔티탭 90일 여정 팀원 각오</title>
+    <link>https://harmcho.github.io/Saltea_90day/journey/Day-000-team-pledge</link>
+    <guid>https://harmcho.github.io/Saltea_90day/journey/Day-000-team-pledge</guid>
+    <description><![CDATA[ Day 0 — 솔티탭 90일 여정 팀원 각오 기록일: 2026-06-28 06:39 UTC 여정 시작일: 2026-06-29 내일부터 시작되는 솔티탭 90일 여정은 단순한 콘텐츠 업로드가 아니라, 작은 브랜드가 매일 고객을 만나고 배우고 성장하는 실행 기록입니다. ]]></description>
+    <pubDate>Sun, 28 Jun 2026 06:39:35 GMT</pubDate>
+  </item><item>
+    <title>실사형 이미지 제작 환경</title>
+    <link>https://harmcho.github.io/Saltea_90day/production/photoreal-image-setup</link>
+    <guid>https://harmcho.github.io/Saltea_90day/production/photoreal-image-setup</guid>
+    <description><![CDATA[ 실사형 이미지 제작 환경 솔티탭 인스타그램 콘텐츠 품질을 높이기 위해, 단순 배경색/선그림 방식이 아니라 실사형 라이프스타일 이미지 + 한글 텍스트 후합성 방식으로 전환합니다. ]]></description>
+    <pubDate>Sun, 28 Jun 2026 01:17:05 GMT</pubDate>
+  </item><item>
     <title>인스타그램·영상제작 연동</title>
     <link>https://harmcho.github.io/Saltea_90day/automation/instagram-video-integration</link>
     <guid>https://harmcho.github.io/Saltea_90day/automation/instagram-video-integration</guid>
@@ -47,24 +65,6 @@
     <guid>https://harmcho.github.io/Saltea_90day/team-reports/qa-bot</guid>
     <description><![CDATA[ 백서연 QA Bot 보고서 역할 백서연은 공개 문구의 과장 표현, 식품/건강 표현 리스크, 개인정보 공개 위험을 검수하는 표현 검수 담당입니다. ]]></description>
     <pubDate>Sat, 27 Jun 2026 05:03:33 GMT</pubDate>
-  </item><item>
-    <title>정하은 Automation Bot 보고서</title>
-    <link>https://harmcho.github.io/Saltea_90day/team-reports/automation-bot</link>
-    <guid>https://harmcho.github.io/Saltea_90day/team-reports/automation-bot</guid>
-    <description><![CDATA[ 정하은 Automation Bot 보고서 역할 정하은은 Obsidian 내부 기록, GitHub Pages 공개 기록, Google Drive 공유, KPI 시트 연결을 관리하는 기록·자동화 담당입니다. ]]></description>
-    <pubDate>Sat, 27 Jun 2026 05:03:33 GMT</pubDate>
-  </item><item>
-    <title>강민재 Copy Bot 보고서</title>
-    <link>https://harmcho.github.io/Saltea_90day/team-reports/copy-bot</link>
-    <guid>https://harmcho.github.io/Saltea_90day/team-reports/copy-bot</guid>
-    <description><![CDATA[ 강민재 Copy Bot 보고서 역할 강민재는 릴스 후킹, 카드뉴스 문안, CTA, 캡션, 해시태그를 설계하는 콘텐츠 카피 담당입니다. ]]></description>
-    <pubDate>Sat, 27 Jun 2026 05:03:33 GMT</pubDate>
-  </item><item>
-    <title>윤채린 Product Bot 보고서</title>
-    <link>https://harmcho.github.io/Saltea_90day/team-reports/product-bot</link>
-    <guid>https://harmcho.github.io/Saltea_90day/team-reports/product-bot</guid>
-    <description><![CDATA[ 윤채린 Product Bot 보고서 역할 윤채린은 제품 설명, 상품 구성, 상세페이지 메시지, 패키지/루틴 제안을 점검하는 제품 설명 담당입니다. ]]></description>
-    <pubDate>Sat, 27 Jun 2026 05:03:18 GMT</pubDate>
   </item>
     </channel>
   </rss>
