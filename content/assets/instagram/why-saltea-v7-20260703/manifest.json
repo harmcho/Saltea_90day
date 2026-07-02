@@ -1,0 +1,41 @@
+{
+  "campaign": "why_saltea_photoreal_v7_public",
+  "date": "2026-07-03",
+  "cards": [
+    "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/cards/why_saltea_photoreal_card_01.jpg",
+    "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/cards/why_saltea_photoreal_card_02.jpg",
+    "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/cards/why_saltea_photoreal_card_03.jpg",
+    "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/cards/why_saltea_photoreal_card_04.jpg",
+    "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/cards/why_saltea_photoreal_card_05.jpg",
+    "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/cards/why_saltea_photoreal_card_06.jpg"
+  ],
+  "card_preview": "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/why_saltea_photoreal_cardnews_preview.jpg",
+  "reels": [
+    {
+      "key": "r1_why_saltea_photoreal",
+      "video": "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/reels/r1_why_saltea_photoreal.mp4",
+      "cover": "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/reels/r1_why_saltea_photoreal_cover.jpg",
+      "caption": "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/reels/r1_why_saltea_photoreal_caption.txt",
+      "first_comment": "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/reels/r1_why_saltea_photoreal_first_comment.txt",
+      "duration": 8.5
+    },
+    {
+      "key": "r2_routine_barrier_photoreal",
+      "video": "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/reels/r2_routine_barrier_photoreal.mp4",
+      "cover": "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/reels/r2_routine_barrier_photoreal_cover.jpg",
+      "caption": "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/reels/r2_routine_barrier_photoreal_caption.txt",
+      "first_comment": "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/reels/r2_routine_barrier_photoreal_first_comment.txt",
+      "duration": 9.5
+    },
+    {
+      "key": "r3_running_bag_photoreal",
+      "video": "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/reels/r3_running_bag_photoreal.mp4",
+      "cover": "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/reels/r3_running_bag_photoreal_cover.jpg",
+      "caption": "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/reels/r3_running_bag_photoreal_caption.txt",
+      "first_comment": "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/reels/r3_running_bag_photoreal_first_comment.txt",
+      "duration": 8.5
+    }
+  ],
+  "preview": "/root/soul-agent-team/saltea_integrations/generated/today_why_saltea_photoreal_v7_public_20260703/why_saltea_photoreal_v7_public_preview.jpg",
+  "claim_safety": "No disease/prevention/performance claims."
+}
